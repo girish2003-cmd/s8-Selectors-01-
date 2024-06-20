@@ -1,0 +1,51 @@
+#rohit{
+    width:300px;
+    border: 15px dashed pink;
+    border-radius: 50%;
+}
+#head{
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 10px 10px 10px rgb(18, 17, 17);
+    border-radius: 10px;
+    background-color: blueviolet;
+
+}
+.captain{
+    box-shadow: 10px 10px 10px black;
+
+}
+#body{
+    background-color: antiquewhite;
+}
+img{
+    width: 200px;
+    margin: 40px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px gray;
+
+
+}
+p {
+    width : 275px;
+    height: 500px;
+    overflow:auto;
+    display: inline-block;
+
+}
+
+.MiPLayers{
+    background-color: blue;
+}
+.RcbPlayers{
+    background-color: rgb(242, 52, 52);
+}
+.Cskplayer{
+    background-color: yellow;
+}
+.Delhi{
+    background-color: aqua;
+}
+.singh{
+    background-color: darkred
+}
